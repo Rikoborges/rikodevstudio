@@ -1,0 +1,9 @@
+wp-admin/
+wp-includes/
+wp-config.php
+logs/
+*.log
+.env
+node_modules/
+
+
